@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Caladan08. A gamer, reader, and an overall lazy person describes me
+- 👋 Hi, I’m @Caladan08. A front-end developer, reader, and an overall lazy person describes me
 - 🌱 I’m currently trying to learn `svelte` and `sveltekit`
 
 <!---
